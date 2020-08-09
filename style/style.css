@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+	font-size: 30px;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-family: 'Inconsolata', monospace;
+}
+.header {
+	padding: 50px 60px;
+}
+.menu {
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+.menu__link {
+	font-size: 14px;
+	font-weight: 400;
+	font-family: font-family: 'Playfair Display', serif;
+	color: #787878;
+}
+.img {
+	display: block;
+	background-image: url("../img/image.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 90vh;
+	width: 100%;
+}
+span {
+	display: block;
+	font-size: 14px;
+	font-family: font-family: 'Ubuntu', sans-serif;
+	color: #B8AE9F;
+	text-transform: uppercase;
+	margin: 20px 0px;
+}
+h2 {
+	display: block;
+	font-family: ;
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	font-weight: 300;
+	color: #626262;
+	margin: 20px 0px;
+}
+p {
+	font-size: 14px;
+	font-weight: 300;
+	font-family: font-family: 'Playfair Display', serif;
+	color: #626262;
+}
+.comment {
+	display: block;
+	font-size: 14px;
+	font-family: font-family: 'Ubuntu', sans-serif;
+	color: #B8AE9F;
+	text-transform: uppercase;
+	margin: 20px 0px;
+}
+.life-style img {
+	padding-top: 80px;
+}
+.form {
+	background-color: #F0F0F0;
+}
+.form h2 {
+	color: black;
+	padding-top: 40px;
+}
+.form input {
+	background: transparent;
+	border: none;
+	font-family: font-family: 'Playfair Display', serif;
+	color: #B8AE9F;
+}
+.form__item {
+	width: 357px;
+	display: block;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	padding-top: 50px;
+	margin-bottom: 70px;
+}
+.life-style__column3 p {
+	padding-bottom: 100px;
+}
+.songs {
+	padding-top: 100px;
+}
+.btn {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+footer {
+	padding: 30px;
+	background-color: #F0F0F0;
+}
